@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"*.tcc": "cpp",
+			"bitset": "cpp",
+			"functional": "cpp",
+			"random": "cpp",
+			"iomanip": "cpp",
+			"istream": "cpp",
+			"streambuf": "cpp",
+			"iostream": "cpp"
+		},
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"/home/santhosh/Downloads/apache-tomcat-9.0.34/lib/**/*.jar"
+		],
+		"java.dependency.syncWithFolderExplorer": true,
+		"python.pythonPath": "/usr/bin/python3"
+	}
+}

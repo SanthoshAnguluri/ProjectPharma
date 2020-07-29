@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=4, initial-scale=1.0">
+    <title>Login Page</title>
+</head>
+<body>
+
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr><td><p>To enter ProjectPharma, Enter Your MySql</p></td></tr>
+        <tr><td>
+            <form action="loginServlet" name="logonform" method="POST">
+                Username: <input type="text" name="username"><br>
+                Password: <input type="password" name="password"><br>
+                <center><input type="submit" value="Submit"></center>
+            </form>
+        </td></tr>
+    </table>
+    <br>
+    <h2>Using ProjectPharma for first time?</h2>
+    <p>To use ProjectPharma without interruptions, the user must have <b>apache tomcat</b>, a user in mysql with <b>all privileges</b> and respective database(named 'pharmacy') should be created using the sql file below</p>
+
+    <a style="color: blue;" href="pharmacyDB.sql">Tap to download SQL file</a>
+
+    <p>Import the database using the above downloaded .sql file</p>
+    <p>Then login with the privileged mysql username and password</p>
+</body>
+</html>
