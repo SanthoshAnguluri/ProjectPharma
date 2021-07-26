@@ -10,3 +10,15 @@ To use above ProjectPharma.war file, the system should have
 #### 3. mysql database named 'pharmacy'
 
 On first deployment of ProjectPharma, the user should download the .sql file as instructed and import database using the file.
+
+## Screenshots
+
+![Login Page](Screenshots/Screenshot_20210726_130819.jpg)
+
+![Home Page](Screenshots/Screenshot_20210726_130926.jpg)
+
+![Products](Screenshots/Screenshot_20210726_153337.jpg)
+
+![Employee Details](Screenshots/Screenshot_20210726_132236.jpg)
+
+![Transaction](Screenshots/Screenshot_20210726_131340.jpg)
